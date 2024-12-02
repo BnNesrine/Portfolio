@@ -1,0 +1,54 @@
+[33mcommit 64a0abb75a6cd2d08e513bfae4bab8b5145f8d96[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:35:58 2024 +0100
+
+    Ajout de modifications dans index
+
+[33mcommit 4d7e0e5889360d753c9c1cfdac53eb91ee6f184b[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:32:05 2024 +0100
+
+    Résolution des conflits dans index.html et style.css
+
+[33mcommit 1c6e6d7dc554002581f76c19ec937ea3df099529[m
+Merge: 861855a fd2aea6
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:29:54 2024 +0100
+
+    Résolution des conflits dans index.html et style.css
+
+[33mcommit 861855ad6749a91f3562e7fa943819c0368f2c35[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:25:06 2024 +0100
+
+    Sauvegarde des modifications locales
+
+[33mcommit 0bf6a7721298ebcccdc72a7ce0aa92a190b4335c[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:10:37 2024 +0100
+
+    Modification du fichier index.html
+
+[33mcommit 0785fddedcb2f8f73198c72b45236751950ebee7[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 02:08:45 2024 +0100
+
+    Modification du fichier index.html
+
+[33mcommit fd2aea642aa671ac0e11f09dc3d86c8f0a812689[m
+Author: BnNesrine <148662790+BnNesrine@users.noreply.github.com>
+Date:   Mon Dec 2 02:02:20 2024 +0100
+
+    Add files via upload
+
+[33mcommit fa47425ff789ef8faa452c670f4f6074d6bd318b[m
+Author: BnNesrine <148662790+BnNesrine@users.noreply.github.com>
+Date:   Mon Dec 2 01:50:19 2024 +0100
+
+    Initial commit
+
+[33mcommit 0d810f320c3341d20299a570ab8d074c4d6b4e2c[m
+Author: Nesrine <nesrinebnd6@gmail.com>
+Date:   Mon Dec 2 01:49:37 2024 +0100
+
+    Initial commit - Portfolio basique
